@@ -1,3 +1,4 @@
+#Change the value of x to your inital bet
 x = 1
 W = (x+x)
 L = -(x)
