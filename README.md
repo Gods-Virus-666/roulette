@@ -1,6 +1,6 @@
 # ROULETTE
 So I used multiple roulette apps to simulate data.
-I followed betting patterns set by gamble.py
+I followed betting patterns set by gamble.py.
 I used gambledata.py to collect data.
 I used frequency analysis to get the frequency % of how may times I would have to bet on red before winning.
 
